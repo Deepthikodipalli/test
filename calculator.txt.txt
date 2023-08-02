@@ -1,4 +1,6 @@
 addition
 multiplication
-division
+division percentage
 substraction
+
+modules
